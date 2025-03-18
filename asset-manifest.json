@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4953edbd.css",
+    "main.js": "/portfolio/static/js/main.f09bdc8f.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/portfolioback.png": "/portfolio/static/media/portfolioback.4ecdee3217e371a730a2.png",
+    "static/media/TKWedding9.png": "/portfolio/static/media/TKWedding9.981fadffa0a9653e0263.png",
+    "static/media/TKWedding12.png": "/portfolio/static/media/TKWedding12.d622a357b59f0f91a0fa.png",
+    "static/media/TKWedding8.png": "/portfolio/static/media/TKWedding8.f41302c4e4a33c996f50.png",
+    "static/media/TKWedding4.png": "/portfolio/static/media/TKWedding4.73434908cbd9041f6535.png",
+    "static/media/TKWedding6.png": "/portfolio/static/media/TKWedding6.ccb70f080ca874b36e8c.png",
+    "static/media/weddingWebsite.png": "/portfolio/static/media/weddingWebsite.e979e77db64f7b04808b.png",
+    "static/media/TKWedding3.png": "/portfolio/static/media/TKWedding3.82cef6eea68606d3f259.png",
+    "static/media/TKWedding11.png": "/portfolio/static/media/TKWedding11.9d6df73a50edf52a2dec.png",
+    "static/media/TKWedding5.png": "/portfolio/static/media/TKWedding5.c49618fdcace594178b9.png",
+    "static/media/TKWedding13.png": "/portfolio/static/media/TKWedding13.9e82749f7653276339d5.png",
+    "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.1815a33c7858ab0f9982.jpg",
+    "static/media/profile-pic.jpg": "/portfolio/static/media/profile-pic.e8142fc34d137f7c65a4.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.4953edbd.css.map": "/portfolio/static/css/main.4953edbd.css.map",
+    "main.f09bdc8f.js.map": "/portfolio/static/js/main.f09bdc8f.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4953edbd.css",
+    "static/js/main.f09bdc8f.js"
+  ]
+}
